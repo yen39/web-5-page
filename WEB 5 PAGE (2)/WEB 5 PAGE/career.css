@@ -1,0 +1,400 @@
+.header {
+  height: 120px;
+  width: 1024px;
+  position: relative;
+  background-color: var(--color-rosybrown);
+  display: none;
+  max-width: 100%;
+  z-index: 1;
+}
+.sweet-donut-removebg-preview-1-icon {
+  margin-left: -97px;
+  height: 117px;
+  width: 98px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.home1 {
+  margin: 0;
+}
+.home {
+  align-self: stretch;
+  height: 23px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+  z-index: 2;
+}
+.home-wrapper {
+  width: 146px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-28xl) var(--padding-mini) 0 0;
+  box-sizing: border-box;
+  margin-left: -1px;
+}
+.menu1 {
+  margin: 0;
+}
+.menu {
+  align-self: stretch;
+  height: 50px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+  z-index: 1;
+}
+.menu-wrapper {
+  flex: 0.9933;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-28xl) var(--padding-10xl) 0 0;
+  margin-left: -1px;
+}
+.introduce1 {
+  margin: 0;
+}
+.introduce {
+  align-self: stretch;
+  height: 50px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+  z-index: 1;
+}
+.introduce-wrapper {
+  flex: 0.949;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-28xl) var(--padding-17xl) 0 0;
+  margin-left: -1px;
+}
+.career1 {
+  align-self: stretch;
+  height: 50px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-child {
+  height: 1px;
+  width: 61px;
+  position: relative;
+  z-index: 2;
+}
+.career-parent,
+.menu-bar-inner,
+.vector-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vector-wrapper {
+  flex-direction: row;
+  padding: 0 var(--padding-25xl);
+  margin-top: -25px;
+}
+.career-parent,
+.menu-bar-inner {
+  flex: 1;
+  flex-direction: column;
+}
+.career-parent {
+  align-self: stretch;
+}
+.menu-bar-inner {
+  height: 97px;
+  padding: var(--padding-28xl) var(--padding-9xl) 0 0;
+  box-sizing: border-box;
+  margin-left: -1px;
+}
+.contact {
+  align-self: stretch;
+  height: 50px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+  z-index: 1;
+}
+.contact-wrapper,
+.menu-bar {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.contact-wrapper {
+  width: 149px;
+  flex-direction: column;
+  padding: var(--padding-28xl) 0 0;
+  margin-left: -1px;
+}
+.menu-bar {
+  align-self: stretch;
+  background-color: var(--color-rosybrown);
+  flex-direction: row;
+  padding: var(--padding-12xs) 0 var(--padding-11xs) var(--padding-77xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-raleway);
+}
+.frame-item,
+.section1-icon {
+  position: relative;
+  max-width: 100%;
+}
+.section1-icon {
+  align-self: stretch;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.frame-item {
+  height: 970px;
+  width: 1024px;
+  background-color: var(--color-lightpink);
+  display: none;
+}
+.benefits-friendly,
+.blank-line,
+.blank-line1,
+.blank-line10,
+.blank-line11,
+.blank-line2,
+.blank-line3,
+.blank-line4,
+.blank-line5,
+.blank-line6,
+.blank-line7,
+.blank-line8,
+.blank-line9,
+.phu-quoc-hanoi,
+.please-send-your,
+.requirements-friendly,
+.vacancy-positions,
+.weet-donut-is-expanding,
+.work-location-weet {
+  margin: 0;
+}
+.weet-donut-is-expanding-container {
+  width: 589px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent {
+  align-self: stretch;
+  background-color: var(--color-lightpink);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 169px var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-raleway);
+}
+.section6 {
+  height: 510px;
+  width: 1024px;
+  position: relative;
+  background-color: var(--color-rosybrown);
+  display: none;
+  max-width: 100%;
+}
+.fresh-cakes-every {
+  width: 185px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -9px;
+  left: -15px;
+  display: inline-block;
+  z-index: 1;
+}
+.sweet-donut-removebg-preview-1-icon1 {
+  height: 187px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 2;
+}
+.frame-wrapper,
+.fresh-cakes-every-day-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fresh-cakes-every-day-parent {
+  width: 157px;
+  flex-direction: row;
+  position: relative;
+}
+.frame-wrapper {
+  height: 295px;
+  width: 212px;
+  flex-direction: column;
+}
+.contact-information {
+  width: 190px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.address-nguyen-dinh,
+.blank-line12,
+.blank-line13,
+.blank-line14,
+.district-3-city,
+.emailweetdonutvietnamcom,
+.phone-number-090127667,
+.working-hours-0800 {
+  margin: 0;
+}
+.address-nguyen-dinh-container {
+  position: relative;
+  text-align: left;
+  cursor: pointer;
+  z-index: 1;
+}
+.contact-information-parent,
+.frame-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.contact-information-parent {
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.frame-container {
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-4xl);
+}
+.policies {
+  width: 71px;
+  position: relative;
+  display: inline-block;
+  min-width: 71px;
+  z-index: 1;
+}
+.blank-line15,
+.blank-line16,
+.blank-line17,
+.blank-line18,
+.customer-support,
+.delivery-policy,
+.payment-policy,
+.shipping-policy,
+.shopping-guide {
+  margin: 0;
+}
+.shopping-guide-customer-container {
+  position: relative;
+  text-align: left;
+  cursor: pointer;
+  z-index: 1;
+}
+.policies-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+}
+.career,
+.section6-parent {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.section6-parent {
+  align-self: stretch;
+  background-color: var(--color-rosybrown);
+  flex-direction: row;
+  padding: var(--padding-70xl) var(--padding-80xl) var(--padding-107xl);
+  box-sizing: border-box;
+  gap: var(--gap-47xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-raleway);
+}
+.career {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  flex-direction: column;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 975px) {
+  .rectangle-parent {
+    padding-top: var(--padding-91xl);
+    padding-bottom: var(--padding-91xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 950px) {
+  .section6-parent {
+    flex-wrap: wrap;
+    gap: var(--gap-14xl);
+    justify-content: center;
+    padding-left: var(--padding-30xl);
+    padding-right: var(--padding-30xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 700px) {
+  .menu-bar {
+    padding-left: var(--padding-29xl);
+    box-sizing: border-box;
+  }
+  .rectangle-parent,
+  .section6-parent {
+    padding-top: var(--padding-52xl);
+    padding-bottom: var(--padding-52xl);
+    box-sizing: border-box;
+  }
+  .section6-parent {
+    padding-top: var(--padding-39xl);
+    padding-bottom: var(--padding-63xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .menu-bar,
+  .section6-parent {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .section6-parent {
+    gap: var(--gap-base);
+    padding-left: var(--padding-5xl);
+    padding-right: var(--padding-5xl);
+  }
+}
